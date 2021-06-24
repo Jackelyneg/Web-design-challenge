@@ -76,10 +76,10 @@
                         <h2 class="imageNav-header">Visualizations</h2>
                         <hr />
                         <div id="images">
-                            <a href="max_temp.html"><img src="\Images\Lat v temp.png"
-                                    alt="Latitude vs. Max Temperature" class="imageNav-photo"></a>
-                            <a href="Humidity.html"><img src="\Images\Lat v Humidity.png"
-                                    alt="Latitude vs. Humidity" class="imageNav-photo"></a>
+                            <a href="max_temp.html"><img src="\Images\Lat v temp.png" alt="Latitude vs. Max Temperature"
+                                    class="imageNav-photo"></a>
+                            <a href="Humidity.html"><img src="\Images\Lat v Humidity.png" alt="Latitude vs. Humidity"
+                                    class="imageNav-photo"></a>
                             <a href="Cloudiness.html"><img src="\Images\Lat v Cloudiness.png"
                                     alt="Latitude vs. Cloudiness" class="imageNav-photo"></a>
                             <a href="wind_speed.html"><img src="Images\Lat v Widnd Speed.png"
